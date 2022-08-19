@@ -1,4 +1,5 @@
-# Intro
+# What's the project about?
+
 This project started from a desire to improve medical diagnosis in rural communities of low income countries. We have chosen a microscope given its versatility and widespread applications. If we want the device to be appropriate in rural communities it should comply with certain characteristics:
 - Low cost.
 - Usable by non specialized technicians.
