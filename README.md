@@ -1,5 +1,6 @@
-# OHA_micro
+# Intro
 
+# Checklist for documentation during program
 - [ ] Good intro.
 - [ ] List of electronic components.
 - [ ] PCB.
