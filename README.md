@@ -13,10 +13,15 @@ In orden to satisfy these requirements we envision a device with the following c
 - Linked with ML algorithms for in situ image processing.
 
 As of August 19th 2022, we have a functioning prototype with some of the desired characteristics but with some deficioencies that we are trying to overcome:
-- Noisy stepper motors that sometimes can move the sample with the stage displacement.
+- Noisy stepper motors, combined with a losen sample that sometimes vibrates with the stage displacement.
 - The XY movement is not sufficient to scan big samples like Pap smear samples.
 - The actual design is an inverted microscope which somtimes makes difficult to work with certain samples.
 - We want to add some limit switches in order to have a "Home" position.
+
+
+Finally, a picture of the current prototype:
+
+<img src="https://github.com/jossoca/OHA_micro/blob/main/micro.jpeg" width=50% height=50%>
 
 
 # Checklist for documentation during program
