@@ -25,7 +25,7 @@ Finally, a picture of the current prototype:
 
 
 # Checklist for documentation during program
-- [ ] Good intro.
+- [ ] Good intro explaining how the documentation is structured.
 - [ ] List of electronic components.
 - [ ] PCB design.
 - [ ] List of mechanical parts along with their CAD files.
