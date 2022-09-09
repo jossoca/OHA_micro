@@ -26,7 +26,8 @@ On the other hand, there are still some features that we need to implement in or
 - Add a potentiometer for controlling light intensity.
 - Check if image is distorted when we add a bandpass filter in order to be able to perform fluoescence microsocopy.
 
-Finally, a picture of the current prototype:
+Here is a picture of the current setup:
+
 <img src="https://github.com/jossoca/OHA_micro/blob/main/micro.jpeg" width=50% height=50%>
 
 
