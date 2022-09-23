@@ -1,7 +1,13 @@
 # What's the project about?
 
-This project started from a desire to improve medical diagnosis in rural communities of low income countries. In order to achieve this, we decided to design and build a low cost microscope, given its versatility and widespread applications. If we want the device to be appropriate in rural communities it should comply with certain characteristics:
-- Low cost.
+### Background
+This project started from a desire to improve medical diagnosis in rural communities of low-income countries. In order to achieve this, we decided to design and build a low-cost microscope, given its versatility and widespread applications. 
+
+The main purpose of the microscope is to serve as a cost-effective tool for the diagnosis of neglected tropical diseases (e.g., Chagas disease, dengue, chikungunya, leishmaniasis, amog many others) in rural areas, for which [fluorescence capabilities are essential](https://apps.who.int/iris/bitstream/handle/10665/119734/dsa281.pdf?sequence=1&isAllowed=y). On the other hand, we are also interested in reading Pap smear slides, given that cervical cancer is still a public health problem in developing countries.
+
+### Target characteristics:
+If we want the device to be appropriate in rural communities it should comply with certain characteristics:
+- Low cost (we are aiming for ~500 USD).
 - Usable by non specialized technicians.
 - Not dependant on specialized physicians for a presuntive diagnosis.
 - Not dependant on specialized additional equipment.
@@ -29,6 +35,7 @@ On the other hand, there are still some features that we need to implement in or
 Here is a picture of the current setup:
 
 <img src="https://github.com/jossoca/OHA_micro/blob/main/Imgs/micro.jpeg" width=50% height=50%>
+
 
 
 # Checklist for documentation during program
