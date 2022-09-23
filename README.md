@@ -28,7 +28,7 @@ On the other hand, there are still some features that we need to implement in or
 
 Here is a picture of the current setup:
 
-<img src="https://github.com/jossoca/OHA_micro/blob/main/micro.jpeg" width=50% height=50%>
+<img src="https://github.com/jossoca/OHA_micro/blob/main/Imgs/micro.jpeg" width=50% height=50%>
 
 
 # Checklist for documentation during program
