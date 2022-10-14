@@ -7,7 +7,7 @@ The main purpose of the platform is to serve as a cost-effective tool for the di
 
 #### Features
 In order to satisfy our main purpose and to be appropriate for its use in rural communities, we envision a device with the following features:
-- Low cost (we are aiming for ~500 USD).
+- Low cost (we are aiming for ~500 EUR).
 - Microscope capable of doing brightfield and fluorescence microscopy.
 - Motorized stage capable of XY scanning and autofocus. The scanning area should be large enough to cover Pap smear samples (50x20mm approx).
 - Operated via a Raspberry Pi and a touchscreen.
@@ -17,7 +17,14 @@ In order to satisfy our main purpose and to be appropriate for its use in rural 
 - Not reliant on specialized extra equipment.
 
 #### State of the project:
-As of August 2022, we have a functioning prototype with some of the desired characteristics but with some deficiencies that we are trying to overcome:
+As of August 2022, we have a functioning prototype with some of the desired characteristics:
+- Brightfield inverted microscope.
+- Optical resolution ~0.3 $\mu m$.
+- Motorized movement in three axis with a postitioning resolution of 0.3 $\mu m$ approx. We can move in an area of 40x20mm approx.
+- Live sample imaging and capacity for capturing high quality digital images and video.
+- Cost: ~500 EUR.
+
+But with some deficiencies that we are trying to overcome:
 - Noisy stepper motors that sometimes move the sample when displacing the stage.
 - Issues with Z motor control that will not allow an autofocus function.
 - The XY movement is not sufficient to scan big samples like Pap smear samples.
