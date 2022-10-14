@@ -39,4 +39,4 @@ On the other hand, there are still some features that we need to implement in or
 
 Here is a picture of the current setup:
 
-<img src="https://github.com/jossoca/OHA_micro/blob/main/Imgs/annotated.jpeg" width=70% height=70%>
+<img src="https://github.com/jossoca/OHA_micro/blob/main/Imgs/annotated.png" width=70% height=70%>
