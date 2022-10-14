@@ -1,4 +1,4 @@
-| Item | Amount | Cost (ISD) |
+| Item | Amount | Cost (USD) |
 | --- | :---: | ---: |
 | CNC machined parts | N.A. |  |
 | Microscope objective (20x) | 1 | 32 |
